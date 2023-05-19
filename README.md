@@ -1,6 +1,7 @@
 ### Module 9 SQL Challenge
 
 Datasets provided in assignment
+I used parts of Jamie's homework help videos for Queries 7 and 8
 
 ## Requirements
 - Data Modeling (10 points)
